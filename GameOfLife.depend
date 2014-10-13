@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1413008964 source:e:\documentos win7\c++\nueva carpeta\gameoflife\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<winbgim.h>
+	<string>
+
+1413008964 
+
+1413045951 source:/media/callow/ISAACTEC/C++/Proyectos/GameOfLife/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<graphics.h>
+	<string>
+
+1413070365 source:c:\users\andrés\desktop\proyectos\gameoflife\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<winbgim.h>
+	<string>
+
