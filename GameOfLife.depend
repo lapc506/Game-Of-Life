@@ -26,3 +26,14 @@
 	<winbgim.h>
 	<string>
 
+1417045196 source:d:\users\andrés\documents\github\game-of-life\main.cpp
+	<LifeSystem.h>
+
+1417045469 d:\users\andrés\documents\github\game-of-life\include\lifesystem.h
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winbgim.h>
+
